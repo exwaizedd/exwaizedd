@@ -16,7 +16,7 @@ I'm a passionate Blockchain Expert and Software Engineer with extensive experien
 - Smart Contract Development: Expertise in designing and implementing smart contracts for various use cases including single-user ticketing, supply chain management, finance, digital identity and Non-Fungible Tokens (NFTs).
 - Decentralized Applications (DApps): Proficient in building full-stack DApps using ethereum-based blockchain technologies.
 - Blockchain Consulting: Providing strategic advice and technical solutions to help organizations integrate blockchain technology into their operations.
-- 
+
 ⚡ Fun facts
 - ⚡ I love coding and learning new things about computers
 - 🔭 I’m currently working on a bio-crypto key generation mechanism using machine learning and Physical Unclonable Functions (PUF)
