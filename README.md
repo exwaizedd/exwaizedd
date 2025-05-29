@@ -22,7 +22,7 @@ I'm a passionate Blockchain Expert and Software Engineer with extensive experien
 - 🔭 I’m currently working on a bio-crypto key generation mechanism using machine learning and Physical Unclonable Functions (PUF)
 - 🌱 I’m currently learning solidity, rust and node.JS
 - 👯 I’m looking to collaborate on blockchain projects and decentralised applications
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with gigs where I can demonstrate my expertise
 - 💬 Ask me about: Blockchain and Web3
 - 😄 Pronouns: He/Him
 
